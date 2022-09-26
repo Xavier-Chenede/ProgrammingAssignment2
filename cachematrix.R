@@ -8,7 +8,7 @@
 ## and caches its inverse
 
 
-makeCacheMatrix <- function(x=matrix()){
+makeCacheMatrix <- function(x=matrix()) {
         
         inv_mat <- NULL
         set <- function(y) {
